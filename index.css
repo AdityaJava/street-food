@@ -1,21 +1,23 @@
 .navbar {
     display: flex;
     justify-content: space-evenly;
-    height: 100px;
+    height: 70px;
     width: 100%;
-    background-color: #03071E;
+    background-color: none;
     align-items: center;
     position: fixed;
     transition: background-color 0.4s ease-in-out;
+    font-weight: 700;
 }
 
 .navbar.scrolled {
-    background-color: white;
+    background-color: #e5989b;
+    opacity: 0.95;
     color: white;
 }
 
 .navbar.scrolled a {
-    color: black;
+    color: white;
 }
 
 .navbar a {
@@ -31,12 +33,12 @@
 .navbar a.navbar-logo {
     font-size: 1.5rem;
     font-weight: 700;
-    color: rgb(224, 14, 140);
+    color: rgb(158, 26, 101);
 }
 
 
 .hero-section {
-    background-image: url("images/hs2.jpg");
+    background-image: url("images/hs5.jpg");
     background-size: cover;
     height: 800px;
 }
