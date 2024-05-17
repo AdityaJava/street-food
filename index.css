@@ -71,6 +71,9 @@
     font-size: 1.2rem;
 }
 
+.content p {
+    text-align: center;
+}
 
 .about-us-pic {
     background-image: url("images/hs2.jpg");
