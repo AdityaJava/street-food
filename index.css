@@ -53,6 +53,7 @@
     height: 600px;
     justify-content: space-evenly;
     align-items: flex-start;
+    margin-top: 10px;
 }
 
 .about-us-text {
@@ -76,5 +77,10 @@
     background-size: cover;
     height: 600px;
     width: 50%;
+}
+
+.content-photos {
+    height: 600px;
+    border: 2px solid black;
     margin-top: 10px;
 }
