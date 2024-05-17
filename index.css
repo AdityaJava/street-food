@@ -136,3 +136,9 @@
     background-image: url("images/photoarea6.jpg");
     background-size: cover;
 }
+
+.google-reviews {
+    height: 400px;
+    border: 2px solid black;
+
+}
