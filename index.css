@@ -81,7 +81,6 @@
 
 .content-photos {
     height: 600px;
-    border: 2px solid black;
     margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
@@ -92,7 +91,6 @@
 .box {
     height: 40%;
     width: 30%;
-    border: 2px solid black;
 }
 
 .box:nth-child(1) {
