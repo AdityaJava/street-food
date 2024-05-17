@@ -71,8 +71,19 @@
     font-size: 1.2rem;
 }
 
+.content {
+    margin-top: 100px;
+}
+
 .content p {
     text-align: center;
+    font-size: 1.5rem;
+    font-weight: 1000;
+}
+
+.content .text2 {
+    color: #bcbaba;
+    font-size: 1rem;
 }
 
 .about-us-pic {
