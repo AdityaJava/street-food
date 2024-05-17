@@ -137,8 +137,17 @@
     background-size: cover;
 }
 
-.google-reviews {
+.google-reviews-photo {
     height: 400px;
     border: 2px solid black;
 
+    background-image: url("images/hs5.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.google-reviews p {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 1000;
 }
