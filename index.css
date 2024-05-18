@@ -178,3 +178,7 @@ footer {
     color: rgb(165, 164, 164);
     margin-top: 20px;
 }
+
+.mobile-navbar {
+    display: none;
+}
