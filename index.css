@@ -182,3 +182,7 @@ footer {
 .mobile-navbar {
     display: none;
 }
+
+.mobile-navbar-items {
+    display: none;
+}
