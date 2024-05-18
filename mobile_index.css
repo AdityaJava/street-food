@@ -53,5 +53,12 @@
         font-size: 1.2rem;
     }
 
+    .mobile-sidebar {
+        height: 100%;
+        width: 30vw;
+        background-color: black;
+        position: fixed;
+        z-index: 1;
+    }
 
 }
