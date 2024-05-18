@@ -13,4 +13,40 @@
         font-size: 0.5rem;
     }
 
+    .footer-box-header {
+        color: white;
+        font-size: 0.85rem;
+        font-weight: 400;
+    }
+
+    .footer-box-content {
+        font-size: 0.75rem;
+        color: rgb(165, 164, 164);
+        margin-top: 20px;
+    }
+
+    .about-us-section {
+        display: flex;
+        height: 600px;
+        justify-content: space-evenly;
+        align-items: flex-start;
+        margin-top: 10px;
+    }
+
+    .about-us-text {
+        height: 600px;
+        width: 40%;
+    }
+
+    .about-us-text p {
+        color: #757575;
+        font-size: 0.85rem;
+    }
+
+    .about-us-text .section-head {
+        color: black;
+        font-size: 1.2rem;
+    }
+
+
 }
