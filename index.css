@@ -94,7 +94,7 @@
 }
 
 .content-photos {
-    height: 600px;
+    height: 40vw;
     margin-top: 10px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
