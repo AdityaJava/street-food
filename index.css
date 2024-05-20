@@ -41,7 +41,7 @@
 .hero-section {
     background-image: url("images/hs5.jpg");
     background-size: cover;
-    height: 800px;
+    height: 60vw;
 }
 
 .content-section {
