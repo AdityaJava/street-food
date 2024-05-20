@@ -27,7 +27,21 @@
 }
 
 .navbar a:hover {
-    color: rgb(184, 6, 6);
+    animation-name: underline;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+}
+
+@keyframes underline {
+    from {
+        text-decoration: none;
+    }
+
+    to {
+        text-decoration: solid 3px rgb(3, 220, 248) underline;
+    }
+
 }
 
 
