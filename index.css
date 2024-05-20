@@ -96,15 +96,13 @@
 .content-photos {
     height: 600px;
     margin-top: 10px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
 .box {
-    height: 40%;
-    width: 30%;
+    height: 100%;
+    width: 100%;
 }
 
 .box:nth-child(1) {
